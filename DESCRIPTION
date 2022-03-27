@@ -1,0 +1,19 @@
+Package: tasted
+Title: A testing framework for the table of designed experiments
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Emi",
+           family = "Tanaka",
+           role = c("aut", "cre"),
+           email = "dr.emi.tanaka@gmail.com",
+           comment = c(ORCID = "0000-0002-1455-259X"))
+Description: Testing for functions that produce an experimental design are 
+  difficult because of the stochastic nature of the output. This package 
+  provides a set of functions that provide checks of properties of the 
+  experimental design output. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    rlang

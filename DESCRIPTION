@@ -17,3 +17,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Imports: 
     rlang
+URL: https://github.com/emitanaka/tasted
+BugReports: https://github.com/emitanaka/tasted/issues
